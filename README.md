@@ -1,6 +1,6 @@
 # Hitech
 
-<!-- ![Freebie - Entire Page](wiredwiki-app.jpg) -->
+![Freebie - Entire Page](HiTech.png)
 
 Адаптивная вёрстка шаблона **HiTech**.
 
